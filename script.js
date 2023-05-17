@@ -1,6 +1,17 @@
-function threeSum(arr, target) {
-// write your code here
+// function threeSum(arr, target) {
+// // write your code here
   
-}
+// }
 
-module.exports = threeSum;
+// module.exports = threeSum;
+
+
+function calculateMinCost() {
+  //your code here
+  let sum=0;
+	for(let i=0;i<arr.length;i++){
+		sum+=arr[i];
+	}
+  return sum;
+  
+}
